@@ -131,11 +131,11 @@ msgstr "Pagina principale"
 
 #: src/window.blp:220
 msgid "Add, or drop a file to send"
-msgstr "Aggiungi o rilascia un file da inviare"
+msgstr "Aggiungi o rilascia un documento da inviare"
 
 #: src/window.blp:232
 msgid "Add Files"
-msgstr "Aggiungi i documenti"
+msgstr "Aggiungi documenti"
 
 #: src/window.blp:242 src/window.blp:319
 msgid "Share Text"
@@ -143,11 +143,11 @@ msgstr "Condividi testo"
 
 #: src/window.blp:254
 msgid "Selected Files Page"
-msgstr "Pagina file selezionati"
+msgstr "Pagina documenti selezionati"
 
 #: src/window.blp:295
 msgid "Add File"
-msgstr "Aggiungi un file"
+msgstr "Aggiungi un documento"
 
 #: src/window.blp:394
 msgid "Paste from clipboard"
@@ -163,7 +163,7 @@ msgstr "Inserisci o incolla testo, oppure collegamenti da inviare"
 
 #: src/window.blp:450
 msgid "Select Recipients"
-msgstr "Seleziona i destinatari"
+msgstr "Seleziona destinatari"
 
 #: src/window.blp:473
 msgid "Refresh"
@@ -278,14 +278,13 @@ msgid ""
 "<b>Files by Google</b> app"
 msgstr ""
 "Per un dispositivo Android, prova ad aprire la pagina <b>Quick Share</b> "
-"nell'app <b>Files</b> di Google"
+"nell'applicazione <b>Files</b> di Google"
 
 #. Translators: Replace "translator-credits" with your names, one name per line
 #: src/application.rs:256
 msgid "translator-credits"
 msgstr "Lorenzo Mirabella\n"
 "stormseal"
-
 
 #: src/application.rs:261
 msgid "Loading logs..."
@@ -437,7 +436,7 @@ msgstr "Copia negli appunti"
 
 #: src/widgets/receive_transfer.rs:613
 msgid "Save text as file"
-msgstr "Salva testo come documenti"
+msgstr "Salva testo come documento"
 
 #: src/widgets/receive_transfer.rs:765
 #, rust-format
@@ -624,7 +623,7 @@ msgstr "Attiva il Bluetooth"
 
 #: src/window.rs:1988
 msgid "Couldn't open files"
-msgstr "Non è stato possibile aprire i file"
+msgstr "Non è stato possibile aprire i documenti"
 
 #: data/resources/plugins/packet_nautilus.py.in:120
 msgid "Send with Packet"
@@ -633,7 +632,7 @@ msgstr "Invia con Packet..."
 #: data/io.github.nozwock.Packet.desktop.in.in:3
 #: data/io.github.nozwock.Packet.metainfo.xml.in.in:7
 msgid "Share files easily"
-msgstr "Condividi facilmente i file"
+msgstr "Condividi facilmente i documenti"
 
 #. Translators: Search terms to find this application. Do NOT translate or localize the semicolons! The list MUST also end with a semicolon!
 #: data/io.github.nozwock.Packet.desktop.in.in:9
@@ -671,7 +670,7 @@ msgid ""
 "Send and receive files wirelessly with Android devices using Quick Share or "
 "another device with Packet installed."
 msgstr ""
-"Invia e ricevi file in modalità wireless con dispositivi Android utilizzando "
+"Invia e ricevi documenti in modalità wireless con dispositivi Android utilizzando "
 "Quick Share o un altro dispositivo con Packet installato."
 
 #: data/io.github.nozwock.Packet.metainfo.xml.in.in:11
@@ -705,8 +704,8 @@ msgstr "Ricevuta richiesta di condivisione"
 #~| msgid_plural "{} files ({})"
 #~ msgid "{} file"
 #~ msgid_plural "{} files"
-#~ msgstr[0] "{} file ({})"
-#~ msgstr[1] "{} files ({})"
+#~ msgstr[0] "{} documento ({})"
+#~ msgstr[1] "{} documenti ({})"
 
 #~ msgid "Network"
 #~ msgstr "Rete"
